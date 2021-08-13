@@ -10,7 +10,6 @@ import org.springframework.context.annotation.Configuration;
 import java.io.IOException;
 
 //全局处理null 返回
-/*
 @Configuration()
 public class JsonMapper extends ObjectMapper {
     private static final long serialVersionUID = 1L;
@@ -25,4 +24,4 @@ public class JsonMapper extends ObjectMapper {
             }
         });
     }
-}*/
+}
